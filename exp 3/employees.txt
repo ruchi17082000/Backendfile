@@ -1,0 +1,3 @@
+{"emp_id":"123","emp_name":"Ruchi  Singh","emp_phone":"1234567890","emp_job":"web developement","emp_salary":"7"}
+{"emp_id":"43","emp_name":"dfvb","emp_phone":"dfghn","emp_job":"sdfgn","emp_salary":"1"}
+{"emp_id":"123456789","emp_name":"asdfghjkl","emp_phone":"3456789","emp_job":"xcvb","emp_salary":"8"}

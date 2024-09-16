@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "name": "Ruchi",
+    "position": "Software Engineer",
+    "salary": "$100,000"
+  },
+  {
+    "id": 102,
+    "name": "Priya",
+    "position": "Project Manager",
+    "salary": "$110,000"
+  },
+  {
+    "id": 103,
+    "name": "Ardash",
+    "position": "UI/UX Designer",
+    "salary": "$90,000"
+  },
+  {
+    "id": 104,
+    "name": "Tanvi",
+    "position": "QA Engineer",
+    "salary": "$85,000"
+  }
+]
